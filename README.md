@@ -33,6 +33,14 @@ return EXIT_SUCCESS;
 
 
 #os-lab
+program:is.c
+
+
+
+
+
+
+#os-lab
 program:grep.c
 #include <stdio.h>
 #include <stdlib.h>
