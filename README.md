@@ -30,6 +30,7 @@ return EXIT_SUCCESS;
 
 ![screenshort](https://drive.google.com/file/d/1Ubap2M2rYJ2l6QPCnRzQdsZmjVnxg_fs/view?usp=drivesdk)
 
+![screenshort]()
 
 #os-lab
 program:is.c
@@ -56,10 +57,12 @@ simulate_ls(path);
 return 0;
 }
 
+![screenshort]()
 
 
 
 
+![screenshort]()
 
 
 
@@ -91,7 +94,10 @@ simulate_grep(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 
+![screenshort]()
 
+
+![screenshort]()
 
 
 
