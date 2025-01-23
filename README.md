@@ -28,12 +28,11 @@ simulate_cp(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 
-![screenshort](https://drive.google.com/file/d/1Ubap2M2rYJ2l6QPCnRzQdsZmjVnxg_fs/view?usp=drivesdk)
+![screenshort]()
 
-![screenshort](https://drive.google.com/file/d/1Ubap2M2rYJ2l6QPCnRzQdsZmjVnxg_fs/view?usp=drivesdk)
+![screenshort]()
 
 
-![screenshort](https://drive.google.com/file/d/1vCE5UAUrg_fhvJsnmQCjzSezq9smH-r0/view?usp=drivesdk)
 
 #os-lab
 program:is.c
