@@ -32,6 +32,9 @@ return EXIT_SUCCESS;
 
 ![screenshort]()
 
+
+![screenshort]()
+
 #os-lab
 program:is.c
 #include <stdio.h>
