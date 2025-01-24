@@ -91,7 +91,7 @@ simulate_grep(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 
-![screenshort](os5.jpg)
+![screenshort](os7.jpg)
 
 ![screenshort](os6.jpg)
 
