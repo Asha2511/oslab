@@ -93,7 +93,6 @@ return EXIT_SUCCESS;
 
 ![screenshort](os5.jpg)
 
-
 ![screenshort](os6.jpg)
 
 
