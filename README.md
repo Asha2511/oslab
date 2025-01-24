@@ -33,7 +33,6 @@ return EXIT_SUCCESS;
 ![screenshort](os2.jpg)
 
 
-
 #os-lab
 program:is.c
 #include <stdio.h>
