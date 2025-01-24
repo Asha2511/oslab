@@ -28,9 +28,9 @@ simulate_cp(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 
-![screenshort]()
+![screenshort](os1.jpg)
 
-![screenshort]()
+![screenshort](os2.jpg)
 
 
 
@@ -59,14 +59,9 @@ simulate_ls(path);
 return 0;
 }
 
-![screenshort]()
+![screenshort](os3.jpg)
 
-
-
-
-![screenshort]()
-
-
+![screenshort](os4.jpg)
 
 
 #os-lab
@@ -96,10 +91,10 @@ simulate_grep(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 
-![screenshort]()
+![screenshort](os5.jpg)
 
 
-![screenshort]()
+![screenshort](os6.jpg)
 
 
 
