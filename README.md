@@ -101,4 +101,10 @@ return EXIT_SUCCESS;
 
 
 
+#oslab(EXP2:):
+![screenshort](exp2.png)
+
+
+
+
 
