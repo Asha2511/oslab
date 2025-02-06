@@ -3,7 +3,7 @@
 ![screenshort](1737799068276.jpg](https://github.com/user-attachments/assets/41bfce60-366f-4bf2-9724-2dd21a88fef1)
 
 
-#os-lab 1.b
+#os-lab 1.b 
 program:cp.c
 #include <stdio.h>
 #include <stdlib.h>
