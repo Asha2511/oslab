@@ -35,8 +35,6 @@ return EXIT_SUCCESS;
 
 ![screenshort](os1.jpg)
 
-![screenshort](os2.jpg)
-
 
 #os-lab
 program:is.c
@@ -64,8 +62,6 @@ return 0;
 }
 
 ![screenshort](os3.jpg)
-
-![screenshort](os4.jpg)
 
 
 #os-lab
@@ -96,8 +92,6 @@ return EXIT_SUCCESS;
 }
 
 ![screenshort](os7.jpg)
-
-![screenshort](os6.jpg)
 
 
 
