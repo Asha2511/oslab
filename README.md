@@ -106,7 +106,7 @@ return EXIT_SUCCESS;
 #oslab(EXP4:):
 ![screenshort]()
 
-![screenshort]()
+![screenshort](1738860878840.jpg)
 
 
 
