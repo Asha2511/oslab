@@ -104,6 +104,11 @@ return EXIT_SUCCESS;
 #oslab(EXP2:):
 ![screenshort](exp2.png)
 
+#oslab(EXP3:):
+![screenshort](os3.png)
+![screenshort](os4.png)
+![screenshort](os5.png)
+
 
 
 
