@@ -109,6 +109,11 @@ return EXIT_SUCCESS;
 ![screenshort](os4.png)
 ![screenshort](os5.png)
 
+#oslab(EXP4:):
+![screenshort]()
+![screenshort]()
+
+
 
 
 
