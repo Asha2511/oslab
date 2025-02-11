@@ -108,6 +108,10 @@ return EXIT_SUCCESS;
 
 ![screenshort](1738860878840.jpg)
 
+#oslab:(exp5:)
+![Screenshot (56)](https://github.com/user-attachments/assets/6eed489f-bc92-45f2-a44c-8372907ba483)
+
+
 
 
 
