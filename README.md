@@ -111,6 +111,12 @@ return EXIT_SUCCESS;
 #oslab:(exp5:)
 ![Screenshot (56)](https://github.com/user-attachments/assets/6eed489f-bc92-45f2-a44c-8372907ba483)
 
+#oslab:(virtuallab 1:)
+![screenshort](virtual1.png)
+![screenshort](virtual2.png)
+
+#oslab:(virtuallab 2:)
+![screenshort](virtualexp2.png)
 
 
 
