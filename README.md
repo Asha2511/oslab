@@ -118,7 +118,11 @@ return EXIT_SUCCESS;
 #oslab:(virtuallab 2:)
 ![screenshort](vitualexp2.png)
 
+#oslab:(exp-7:)
+![screenshort](exp7.png)
 
+#oslab:(exp-8:)
+![screenshort](exp8.png)
 
 
 
